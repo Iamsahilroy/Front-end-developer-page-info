@@ -54,4 +54,5 @@ button {
 }
 button:hover {
   background-color: #4cff3c;
+  color: black;
 }
