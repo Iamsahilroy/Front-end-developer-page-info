@@ -52,3 +52,6 @@ button {
   align-self: center;
   border-radius: 5px;
 }
+button:hover {
+  background-color: #4cff3c;
+}
